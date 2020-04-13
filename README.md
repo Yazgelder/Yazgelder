@@ -13,4 +13,4 @@
 
 👉 <a href="https://kommunity.com/yazilim-gelistiricileri-dernegi">Kommunity</a> <br/>
 👉 <a href="https://discord.gg/3x5MPz">Discord</a> <br/>
-👉 <a href="https://chat.whatsapp.com/Le1ZGmghG4jEFKThPzPIpu">WhatsApp</a> 
+👉 <a href="https://chat.whatsapp.com/5J61OdDfrQi6lyZCBwI5fW">WhatsApp</a>
