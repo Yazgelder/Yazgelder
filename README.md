@@ -1,4 +1,6 @@
-## Yazgelder Open Source Sayfasına Hoş Geldiniz!
+<div align="center">
+  <h1> 💻 Yazgelder Open Source Sayfasına Hoş Geldiniz 💻</h1>
+</div>
 
 ## İçerik Tablosu
 - [Dernek Tüzügü](#dernek-tüzügü)
