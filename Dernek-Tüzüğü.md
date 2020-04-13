@@ -192,34 +192,34 @@ verilen temsilcilik ile ilgili işlemlerin yürütülmesi bir asli üyeye yetki 
 ### MADDE 12-DENETİM KURULU, ÜÇ ASIL VE ÜÇ YEDEK ÜYE OLARAK GENEL KURULCA SEÇİLİR.
 - Denetim kurulu asıl üyeliğinde istifa veya başka sebeplerden dolayı boşalma olduğu taktirde genel kurulda aldığı oy çokluğu sırasına göre yedek üyelerin göreve çağrılması mecburidir.
 
-####DENETİM KURULUNUN GÖREV VE YETKİLERİ
-Denetim kurulu; derneğin, tüzüğünde gösterilen amaç ve amacın gerçekleştirilmesi için sürdürüleceği belirtilen çalışma konuları doğrultusunda faaliyet gösterip göstermediğini, defter, hesap ve kayıtların mevzuata ve dernek tüzüğüne uygun olarak tutulup tutulmadığını, dernek tüzüğünde tespit edilen esas ve usullere göre ve bir yılı geçmeyen aralıklarla denetler ve denetim sonuçlarını bir rapor halinde yönetim kuruluna ve toplandığında genel kurula sunar.
+#### DENETİM KURULUNUN GÖREV VE YETKİLERİ
+- Denetim kurulu; derneğin, tüzüğünde gösterilen amaç ve amacın gerçekleştirilmesi için sürdürüleceği belirtilen çalışma konuları doğrultusunda faaliyet gösterip göstermediğini, defter, hesap ve kayıtların mevzuata ve dernek tüzüğüne uygun olarak tutulup tutulmadığını, dernek tüzüğünde tespit edilen esas ve usullere göre ve bir yılı geçmeyen aralıklarla denetler ve denetim sonuçlarını bir rapor halinde yönetim kuruluna ve toplandığında genel kurula sunar.
 
 Denetim kurulu, gerektiğinde genel kurulun toplantıya çağrılmasını isteyebilir.
 
-##DERNEĞİN GELİR KAYNAKLARI
-###MADDE 13-DERNEĞİN GELİR KAYNAKLARI AŞAĞIDA SAYILMIŞTIR.
-Üye Aidatı: Asil Üyelerden giriş ödentisi olarak 50 TL, yıllık olarak ta 100 TL aidat alınır. Fahri ve Onursal üyelerden aidat alınmaz. Bu miktarları artırmaya veya eksiltmeye genel kurul yetkilidir.
-Gerçek ve tüzel kişilerin kendi isteği ile derneğe yaptıkları bağış ve yardımlar.
-Dernek tarafından tertiplenen çay ve yemekli toplantı, gezi ve eğlence, temsil, konser, spor yarışması ve konferans gibi faaliyetlerden sağlanan gelirler,
-Derneğin mal varlığından elde edilen gelirler,
-Yardım toplama hakkındaki mevzuat hükümlerine uygun olarak toplanacak bağış ve yardımlar.
-Derneğin, amacını gerçekleştirmek için ihtiyaç duyduğu geliri temin etmek amacıyla giriştiği ticari faaliyetlerden elde edilen kazançlar.
-Diğer gelirler.
-DERNEĞİN DEFTER TUTMA ESAS VE USULLERİ VE TUTULACAK DEFTERLER
-MADDE 14-DEFTER TUTMA ESASLARI;
-Dernekte, işletme hesabı esasına göre defter tutulur. Ancak, yıllık brüt gelirin Dernekler Yönetmeliğinin 31. Maddesinde belirtilen haddi aşması durumunda takip eden hesap döneminden başlayarak bilanço esasına göre defter tutulur.
+## DERNEĞİN GELİR KAYNAKLARI
+### MADDE 13-DERNEĞİN GELİR KAYNAKLARI AŞAĞIDA SAYILMIŞTIR.
+- Üye Aidatı: Asil Üyelerden giriş ödentisi olarak 50 TL, yıllık olarak ta 100 TL aidat alınır. Fahri ve Onursal üyelerden aidat alınmaz. Bu miktarları artırmaya veya eksiltmeye genel kurul yetkilidir.
+- Gerçek ve tüzel kişilerin kendi isteği ile derneğe yaptıkları bağış ve yardımlar.
+- Dernek tarafından tertiplenen çay ve yemekli toplantı, gezi ve eğlence, temsil, konser, spor yarışması ve konferans gibi faaliyetlerden sağlanan gelirler,
+- Derneğin mal varlığından elde edilen gelirler,
+- Yardım toplama hakkındaki mevzuat hükümlerine uygun olarak toplanacak bağış ve yardımlar.
+- Derneğin, amacını gerçekleştirmek için ihtiyaç duyduğu geliri temin etmek amacıyla giriştiği ticari faaliyetlerden elde edilen kazançlar.
+- Diğer gelirler.
+- DERNEĞİN DEFTER TUTMA ESAS VE USULLERİ VE TUTULACAK DEFTERLER
+- MADDE 14-DEFTER TUTMA ESASLARI;
+- Dernekte, işletme hesabı esasına göre defter tutulur. Ancak, yıllık brüt gelirin Dernekler Yönetmeliğinin 31. Maddesinde belirtilen haddi aşması durumunda takip eden hesap döneminden başlayarak bilanço esasına göre defter tutulur.
 
-Bilanço esasına geçilmesi durumunda, üst üste iki hesap döneminde yukarıda belirtilen haddin altına düşülürse, takip eden yıldan itibaren işletme hesabı esasına dönülebilir.
+- Bilanço esasına geçilmesi durumunda, üst üste iki hesap döneminde yukarıda belirtilen haddin altına düşülürse, takip eden yıldan itibaren işletme hesabı esasına dönülebilir.
 
-Yukarıda belirtilen hadde bağlı kalmaksızın yönetim kurulu kararı ile bilanço esasına göre defter tutulabilir.
+- Yukarıda belirtilen hadde bağlı kalmaksızın yönetim kurulu kararı ile bilanço esasına göre defter tutulabilir.
 
-Derneğin ticari işletmesi açılması durumunda, bu ticari işletme için, ayrıca Vergi Usul Kanunu hükümlerine göre defter tutulur.
+- Derneğin ticari işletmesi açılması durumunda, bu ticari işletme için, ayrıca Vergi Usul Kanunu hükümlerine göre defter tutulur.
 
-####KAYIT USULÜ
+#### KAYIT USULÜ
 Derneğin defter ve kayıtları Dernekler Yönetmeliğinde belirtilen usul ve esasa uygun olarak tutulur.
 
-####TUTULACAK DEFTERLER
+#### TUTULACAK DEFTERLER
 Dernekte, aşağıda yazılı defterler tutulur.
 
 a)İşletme hesabı esasında tutulacak defterler ve uyulacak esaslar aşağıdaki gibidir:
@@ -244,93 +244,96 @@ b)Bilanço esasında tutulacak defterler ve uyulacak esaslar aşağıdaki gibidi
 
 2-Yevmiye Defteri ve Büyük Defter: Bu defterlerin tutulma usulü ile kayıt şekli Vergi Usul Kanunu ile bu Kanununun Maliye Bakanlığına verdiği yetkiye istinaden yayımlanan Muhasebe Sistemi Uygulama Genel Tebliğleri esaslarına göre yapılır.
 
-####DEFTERLERİN TASDİKİ
-Dernekte, tutulması zorunlu olan defterler (Büyük Defter hariç), kullanmaya başlamadan önce il dernekler müdürlüğüne veya notere tasdik ettirilir. Bu defterlerin kullanılmasına sayfaları bitene kadar devam edilir ve defterlerin ara tasdiki yapılmaz. Ancak, bilanço esasına göre tutulan Yevmiye Defteri’nin kullanılacağı yıldan önce gelen son ayda, her yıl yeniden tasdik ettirilmesi zorunludur.
+#### DEFTERLERİN TASDİKİ
+- Dernekte, tutulması zorunlu olan defterler (Büyük Defter hariç), kullanmaya başlamadan önce il dernekler müdürlüğüne veya notere tasdik ettirilir. Bu defterlerin kullanılmasına sayfaları bitene kadar devam edilir ve defterlerin ara tasdiki yapılmaz. Ancak, bilanço esasına göre tutulan Yevmiye Defteri’nin kullanılacağı yıldan önce gelen son ayda, her yıl yeniden tasdik ettirilmesi zorunludur.
 
-####GELİR TABLOSU VE BİLANÇO DÜZENLENMESİ
-İşletme hesabı esasına göre kayıt tutulması durumunda yıl sonlarında (31 Aralık) (Dernekler Yönetmeliği EK-16’da belirtilen) “İşletme Hesabı Tablosu” düzenlenir. Bilanço esasına göre defter tutulması durumunda ise, yılsonlarında (31 Aralık), Maliye Bakanlığınca yayımlanan Muhasebe Sistemi Uygulama Genel Tebliğlerini esas alarak bilanço ve gelir tablosu düzenlenir.
+#### GELİR TABLOSU VE BİLANÇO DÜZENLENMESİ
+- İşletme hesabı esasına göre kayıt tutulması durumunda yıl sonlarında (31 Aralık) (Dernekler Yönetmeliği EK-16’da belirtilen) “İşletme Hesabı Tablosu” düzenlenir. Bilanço esasına göre defter tutulması durumunda ise, yılsonlarında (31 Aralık), Maliye Bakanlığınca yayımlanan Muhasebe Sistemi Uygulama Genel Tebliğlerini esas alarak bilanço ve gelir tablosu düzenlenir.
 
-####DERNEĞİN GELİR VE GİDER İŞLEMLERİ
-MADDE 15-GELİR VE GİDER BELGELERİ;
-Dernek gelirleri, (Dernekler Yönetmeliği EK- 17’de örneği bulunan) “Alındı Belgesi” ile tahsil edilir. Dernek gelirlerinin bankalar aracılığı ile tahsili halinde banka tarafından düzenlenen dekont veya hesap özeti gibi belgeler alındı belgesi yerine geçer.
+### DERNEĞİN GELİR VE GİDER İŞLEMLERİ
+#### MADDE 15-GELİR VE GİDER BELGELERİ;
+- Dernek gelirleri, (Dernekler Yönetmeliği EK- 17’de örneği bulunan) “Alındı Belgesi” ile tahsil edilir. Dernek gelirlerinin bankalar aracılığı ile tahsili halinde banka tarafından düzenlenen dekont veya hesap özeti gibi belgeler alındı belgesi yerine geçer.
 
-Dernek giderleri ise fatura, perakende satış fişi, serbest meslek makbuzu gibi harcama belgeleri ile yapılır. Ancak derneğin, Gelir Vergisi Kanununun 94’üncü maddesi kapsamında bulunan ödemeleri için Vergi Usul Kanunu hükümlerine göre gider pusulası, bu kapsamda da bulunmayan ödemeleri için (Dernekler Yönetmeliği EK-13’te örneği buluna) “Gider Makbuzu” veya “Banka Dekontu” gibi belgeler harcama belgesi olarak kullanılır.
+- Dernek giderleri ise fatura, perakende satış fişi, serbest meslek makbuzu gibi harcama belgeleri ile yapılır. Ancak derneğin, Gelir Vergisi Kanununun 94’üncü maddesi kapsamında bulunan ödemeleri için Vergi Usul Kanunu hükümlerine göre gider pusulası, bu kapsamda da bulunmayan ödemeleri için (Dernekler Yönetmeliği EK-13’te örneği buluna) “Gider Makbuzu” veya “Banka Dekontu” gibi belgeler harcama belgesi olarak kullanılır.
 
-Dernek tarafından kişi, kurum veya kuruluşlara yapılacak bedelsiz mal ve hizmet teslimleri (Dernekler Yönetmeliği EK-14’te örneği bulunan) “Ayni Yardım Teslim Belgesi” ile yapılır. Kişi, kurum veya kuruluşlar tarafından derneğe yapılacak bedelsiz mal ve hizmet teslimleri ise (Dernekler Yönetmeliği EK-15’te örneği bulunan) “Ayni Bağış Alındı Belgesi” ile kabul edilir.
+- Dernek tarafından kişi, kurum veya kuruluşlara yapılacak bedelsiz mal ve hizmet teslimleri (Dernekler Yönetmeliği EK-14’te örneği bulunan) “Ayni Yardım Teslim Belgesi” ile yapılır. Kişi, kurum veya kuruluşlar tarafından derneğe yapılacak bedelsiz mal ve hizmet teslimleri ise (Dernekler Yönetmeliği EK-15’te örneği bulunan) “Ayni Bağış Alındı Belgesi” ile kabul edilir.
 
-Bu belgeler; Ek-13, Ek-14 ve Ek-15’te gösterilen biçim ve ebatta, müteselsil seri ve sıra numarası taşıyan, kendinden karbonlu elli asıl ve elli koçan yaprağından meydana gelen ciltler veya elektronik sistemler ve yazı makineleri aracılığıyla yazdırılacak form veya sürekli form şeklinde bastırılır. Form veya sürekli form şeklinde bastırılacak belgelerin, belirtilen nitelikte olması zorunludur.
+- Bu belgeler; Ek-13, Ek-14 ve Ek-15’te gösterilen biçim ve ebatta, müteselsil seri ve sıra numarası taşıyan, kendinden karbonlu elli asıl ve elli koçan yaprağından meydana gelen ciltler veya elektronik sistemler ve yazı makineleri aracılığıyla yazdırılacak form veya sürekli form şeklinde bastırılır. Form veya sürekli form şeklinde bastırılacak belgelerin, belirtilen nitelikte olması zorunludur.
 
-####ALINDI BELGELERİ
-Dernek gelirlerinin tahsilinde kullanılacak “Alındı Belgeleri” (Dernekler Yönetmeliği EK- 17’de gösterilen biçim ve ebatta) yönetim kurulu kararıyla, matbaaya bastırılır.
+#### ALINDI BELGELERİ
+- Dernek gelirlerinin tahsilinde kullanılacak “Alındı Belgeleri” (Dernekler Yönetmeliği EK- 17’de gösterilen biçim ve ebatta) yönetim kurulu kararıyla, matbaaya bastırılır.
 
-Alındı belgelerinin bastırılması ve kontrolü, matbaadan teslim alınması, deftere kaydedilmesi, eski ve yeni saymanlar arasında devir teslimi ve alındı belgesi ile dernek adına gelir tahsil edecek kişi veya kişiler tarafından bu alındı belgelerinin kullanımına ve toplanılan gelirlerin teslimine ilişkin hususlarda Dernekler Yönetmeliğinin ilgili hükümlerine göre hareket edilir.
+- Alındı belgelerinin bastırılması ve kontrolü, matbaadan teslim alınması, deftere kaydedilmesi, eski ve yeni saymanlar arasında devir teslimi ve alındı belgesi ile dernek adına gelir tahsil edecek kişi veya kişiler tarafından bu alındı belgelerinin kullanımına ve toplanılan gelirlerin teslimine ilişkin hususlarda Dernekler Yönetmeliğinin ilgili hükümlerine göre hareket edilir.
 
-####YETKİ BELGESİ
-Yönetim kurulu asıl üyeleri hariç, dernek adına gelir tahsil edecek kişi veya kişiler, yetki süresi de belirtilmek suretiyle, yönetim kurulu kararı ile tespit edilir. Gelir tahsil edecek kişilerin açık kimliği, imzası ve fotoğraflarını ihtiva eden (Dernekler Yönetmeliği Ek-19’da yer alan) “Yetki Belgesi” dernek tarafından iki nüsha olarak düzenlenerek, dernek yönetim kurulu başkanınca onaylanır. Yönetim kurulu asıl üyeleri yetki belgesi olmadan gelir tahsil edebilir.
+#### YETKİ BELGESİ
+- Yönetim kurulu asıl üyeleri hariç, dernek adına gelir tahsil edecek kişi veya kişiler, yetki süresi de belirtilmek suretiyle, yönetim kurulu kararı ile tespit edilir. Gelir tahsil edecek kişilerin açık kimliği, imzası ve fotoğraflarını ihtiva eden (Dernekler Yönetmeliği Ek-19’da yer alan) “Yetki Belgesi” dernek tarafından iki nüsha olarak düzenlenerek, dernek yönetim kurulu başkanınca onaylanır. Yönetim kurulu asıl üyeleri yetki belgesi olmadan gelir tahsil edebilir.
 
-Yetki belgelerinin süresi yönetim kurulu tarafından en çok bir yıl olarak belirlenir. Süresi biten yetki belgeleri birinci fıkraya göre yenilenir. Yetki belgesinin süresinin bitmesi veya adına yetki belgesi düzenlenen kişinin görevinden ayrılması, ölümü, işine veya görevine son verilmesi gibi hallerde, verilmiş olan yetki belgelerinin dernek yönetim kuruluna bir hafta içinde teslimi zorunludur. Ayrıca, gelir toplama yetkisi yönetim kurulu kararı ile her zaman iptal edilebilir.”
+- Yetki belgelerinin süresi yönetim kurulu tarafından en çok bir yıl olarak belirlenir. Süresi biten yetki belgeleri birinci fıkraya göre yenilenir. Yetki belgesinin süresinin bitmesi veya adına yetki belgesi düzenlenen kişinin görevinden ayrılması, ölümü, işine veya görevine son verilmesi gibi hallerde, verilmiş olan yetki belgelerinin dernek yönetim kuruluna bir hafta içinde teslimi zorunludur. Ayrıca, gelir toplama yetkisi yönetim kurulu kararı ile her zaman iptal edilebilir.”
 
-####GELİR VE GİDER BELGELERİNİN SAKLAMA SÜRESİ;
-Defterler hariç olmak üzere, dernek tarafından kullanılan alındı belgeleri, harcama belgeleri ve diğer belgeler özel kanunlarda belirtilen süreler saklı kalmak üzere, kaydedildikleri defterlerdeki sayı ve tarih düzenine uygun olarak 5 yıl süreyle saklanır.
+#### GELİR VE GİDER BELGELERİNİN SAKLAMA SÜRESİ;
+- Defterler hariç olmak üzere, dernek tarafından kullanılan alındı belgeleri, harcama belgeleri ve diğer belgeler özel kanunlarda belirtilen süreler saklı kalmak üzere, kaydedildikleri defterlerdeki sayı ve tarih düzenine uygun olarak 5 yıl süreyle saklanır.
 
-##BEYANNAME VERİLMESİ
-###MADDE 16-Derneğin, bir önceki yıla ait faaliyetleri ile gelir ve gider işlemlerinin yıl sonu itibarıyla sonuçlarına ilişkin (Dernekler Yönetmeliği EK-21’de bulunan) “Dernek Beyannamesi” dernek yönetim kurulu tarafından doldurarak, her takvim yılının ilk dört ayı içinde dernek başkanı tarafından mahallin mülki idare amirliğine verilir.
-BİLDİRİM YÜKÜMLÜLÜĞÜ
-###MADDE 17- MÜLKİ AMİRLİĞE YAPILACAK BİLDİRİMLER;
-GENEL KURUL SONUÇ BİLDİRİMİ
-Olağan veya olağanüstü genel kurul toplantılarını izleyen otuz gün içinde, yönetim ve denetim kurulları ile diğer organlara seçilen asıl ve yedek üyeleri içeren (Dernekler Yönetmeliği Ek-3’te yer alan) Genel Kurul Sonuç Bildirimi mülki idare amirliğine verilir. Genel kurul toplantısında tüzük değişikliği yapılması halinde; genel kurul toplantı tutanağı, tüzüğün değişen maddelerinin eski ve yeni şekli, her sayfası yönetim kurulu üyelerinin salt çoğunluğunca imzalanmış dernek tüzüğünün son şekli, bu fıkrada belirtilen süre içinde ve bir yazı ekinde mülki idare amirliğine verilir
+## BEYANNAME VERİLMESİ
+### MADDE 16
+- Derneğin, bir önceki yıla ait faaliyetleri ile gelir ve gider işlemlerinin yıl sonu itibarıyla sonuçlarına ilişkin (Dernekler Yönetmeliği EK-21’de bulunan) “Dernek Beyannamesi” dernek yönetim kurulu tarafından doldurarak, her takvim yılının ilk dört ayı içinde dernek başkanı tarafından mahallin mülki idare amirliğine verilir.
 
-####TAŞINMAZLARIN BİLDİRİLMESİ
-Derneğin edindiği taşınmazlar tapuya tescilinden itibaren otuz gün içinde (Dernekler Yönetmeliği EK-26’da sunulan) “Taşınmaz Mal Bildirimi”ni doldurmak suretiyle mülki idare amirliğine bildirilir.
+## BİLDİRİM YÜKÜMLÜLÜĞÜ
+### MADDE 17- MÜLKİ AMİRLİĞE YAPILACAK BİLDİRİMLER;
+#### GENEL KURUL SONUÇ BİLDİRİMİ
+- Olağan veya olağanüstü genel kurul toplantılarını izleyen otuz gün içinde, yönetim ve denetim kurulları ile diğer organlara seçilen asıl ve yedek üyeleri içeren (Dernekler Yönetmeliği Ek-3’te yer alan) Genel Kurul Sonuç Bildirimi mülki idare amirliğine verilir. Genel kurul toplantısında tüzük değişikliği yapılması halinde; genel kurul toplantı tutanağı, tüzüğün değişen maddelerinin eski ve yeni şekli, her sayfası yönetim kurulu üyelerinin salt çoğunluğunca imzalanmış dernek tüzüğünün son şekli, bu fıkrada belirtilen süre içinde ve bir yazı ekinde mülki idare amirliğine verilir
 
-####YURTDIŞINDAN YARDIM ALMA BİLDİRİMİ
-Dernek tarafından, yurtdışından yardım alınacak olması durumunda yardım alınmadan önce (Dernekler Yönetmeliği EK-4’te belirtilen) “Yurtdışından Yardım Alma Bildirimi” doldurup mülki idare amirliğine bildirimde bulunulur.
+#### TAŞINMAZLARIN BİLDİRİLMESİ
+- Derneğin edindiği taşınmazlar tapuya tescilinden itibaren otuz gün içinde (Dernekler Yönetmeliği EK-26’da sunulan) “Taşınmaz Mal Bildirimi”ni doldurmak suretiyle mülki idare amirliğine bildirilir.
 
-Nakdi yardımların bankalar aracılığıyla alınması ve kullanılmadan önce bildirim şartının yerine getirilmesi zorunludur.
+#### YURTDIŞINDAN YARDIM ALMA BİLDİRİMİ
+- Dernek tarafından, yurtdışından yardım alınacak olması durumunda yardım alınmadan önce (Dernekler Yönetmeliği EK-4’te belirtilen) “Yurtdışından Yardım Alma Bildirimi” doldurup mülki idare amirliğine bildirimde bulunulur.
 
-####DEĞİŞİKLİKLERİN BİLDİRİLMESİ
-Derneğin yerleşim yerinde meydana gelen değişiklik (Dernekler Yönetmeliği EK-24’te belirtilen) “Yerleşim Yeri Değişiklik Bildirimi”; genel kurul toplantısı dışında dernek organlarında meydana gelen değişiklikler (Dernekler Yönetmeliği EK-25’te belirtilen) “Dernek Organlarındaki Değişiklik Bildirimi” doldurulmak suretiyle, değişikliği izleyen otuz gün içinde mülki idare amirliğine bildirilir.
+- Nakdi yardımların bankalar aracılığıyla alınması ve kullanılmadan önce bildirim şartının yerine getirilmesi zorunludur.
 
-Dernek tüzüğünde yapılan değişiklikler de tüzük değişikliğinin yapıldığı genel kurul toplantısını izleyen otuz gün içinde, genel kurul sonuç bildirimi ekinde mülki idare amirliğine bildirilir.
+#### DEĞİŞİKLİKLERİN BİLDİRİLMESİ
+- Derneğin yerleşim yerinde meydana gelen değişiklik (Dernekler Yönetmeliği EK-24’te belirtilen) “Yerleşim Yeri Değişiklik Bildirimi”; genel kurul toplantısı dışında dernek organlarında meydana gelen değişiklikler (Dernekler Yönetmeliği EK-25’te belirtilen) “Dernek Organlarındaki Değişiklik Bildirimi” doldurulmak suretiyle, değişikliği izleyen otuz gün içinde mülki idare amirliğine bildirilir.
 
-##TEMSİLCİLİK AÇMA
-###MADDE 18-
-Dernek, gerekli gördüğü yerlerde dernek faaliyetlerini yürütmek amacıyla yönetim kurulu kararıyla temsilcilik açabilir. Temsilciliğin adresi, yönetim kurulu kararıyla temsilci olarak görevlendirilen kişi veya kişiler tarafından o yerin mülkî idare amirliğine yazılı olarak bildirilir. Temsilcilik, dernek genel kurulunda temsil edilmez.
+- Dernek tüzüğünde yapılan değişiklikler de tüzük değişikliğinin yapıldığı genel kurul toplantısını izleyen otuz gün içinde, genel kurul sonuç bildirimi ekinde mülki idare amirliğine bildirilir.
 
-##DERNEĞİN İÇ DENETİMİ
-###MADDE 19-Dernekte genel kurul, yönetim kurulu veya denetim kurulu tarafından iç denetim yapılabileceği gibi, bağımsız denetim kuruluşlarına da denetim yaptırılabilir. Genel kurul, yönetim kurulu veya bağımsız denetim kuruluşlarınca denetim yapılmış olması, denetim kurulunun yükümlülüğünü ortadan kaldırmaz.
+## TEMSİLCİLİK AÇMA
+### MADDE 18-
+- Dernek, gerekli gördüğü yerlerde dernek faaliyetlerini yürütmek amacıyla yönetim kurulu kararıyla temsilcilik açabilir. Temsilciliğin adresi, yönetim kurulu kararıyla temsilci olarak görevlendirilen kişi veya kişiler tarafından o yerin mülkî idare amirliğine yazılı olarak bildirilir. Temsilcilik, dernek genel kurulunda temsil edilmez.
 
-Denetim kurulu tarafından en geç yılda bir defa derneğin denetimi gerçekleştirilir. Genel kurul veya yönetim kurulu, gerek görülen hallerde denetim yapabilir veya bağımsız denetim kuruluşlarına denetim yaptırabilir.
+## DERNEĞİN İÇ DENETİMİ
+### MADDE 19
+- Dernekte genel kurul, yönetim kurulu veya denetim kurulu tarafından iç denetim yapılabileceği gibi, bağımsız denetim kuruluşlarına da denetim yaptırılabilir. Genel kurul, yönetim kurulu veya bağımsız denetim kuruluşlarınca denetim yapılmış olması, denetim kurulunun yükümlülüğünü ortadan kaldırmaz.
 
-##DERNEĞİN BORÇLANMA USULLERİ
-###MADDE 20-
-Dernek amacını gerçekleştirmek ve faaliyetlerini yürütebilmek için ihtiyaç duyulması halinde yönetim kurulu kararı ile borçlanma yapabilir. Bu borçlanma kredili mal ve hizmet alımı konularında olabileceği gibi nakit olarak ta yapılabilir. Ancak bu borçlanma, derneğin gelir kaynakları ile karşılanamayacak miktarlarda ve derneği ödeme güçlüğüne düşürecek nitelikte yapılamaz.
+- Denetim kurulu tarafından en geç yılda bir defa derneğin denetimi gerçekleştirilir. Genel kurul veya yönetim kurulu, gerek görülen hallerde denetim yapabilir veya bağımsız denetim kuruluşlarına denetim yaptırabilir.
 
-##TÜZÜĞÜN NE ŞEKİLDE DEĞİŞTİRİLECEĞİ
-###MADDE 21-TÜZÜK DEĞİŞİKLİĞİ GENEL KURUL KARARI İLE YAPILABİLİR.
-Genel kurulda tüzük değişikliği yapılabilmesi için genel kurula katılma hakkı bulunan üyelerin 2/3 çoğunluğu aranır. Çoğunluğun sağlanamaması sebebiyle toplantının ertelenmesi durumunda ikinci toplantıda çoğunluk aranmaz. Ancak, bu toplantıya katılan üye sayısı, yönetim ve denetim kurulları üye tam sayısının iki katından az olamaz.
+## DERNEĞİN BORÇLANMA USULLERİ
+### MADDE 20-
+- Dernek amacını gerçekleştirmek ve faaliyetlerini yürütebilmek için ihtiyaç duyulması halinde yönetim kurulu kararı ile borçlanma yapabilir. Bu borçlanma kredili mal ve hizmet alımı konularında olabileceği gibi nakit olarak ta yapılabilir. Ancak bu borçlanma, derneğin gelir kaynakları ile karşılanamayacak miktarlarda ve derneği ödeme güçlüğüne düşürecek nitelikte yapılamaz.
 
-Tüzük değişikliği için gerekli olan karar çoğunluğu toplantıya katılan ve oy kullanma hakkı bulunan üyelerin oylarının 2/3’ü’dür. Genel kurulda tüzük değişikliği oylaması açık olarak yapılır.
+## TÜZÜĞÜN NE ŞEKİLDE DEĞİŞTİRİLECEĞİ
+### MADDE 21-TÜZÜK DEĞİŞİKLİĞİ GENEL KURUL KARARI İLE YAPILABİLİR.
+- Genel kurulda tüzük değişikliği yapılabilmesi için genel kurula katılma hakkı bulunan üyelerin 2/3 çoğunluğu aranır. Çoğunluğun sağlanamaması sebebiyle toplantının ertelenmesi durumunda ikinci toplantıda çoğunluk aranmaz. Ancak, bu toplantıya katılan üye sayısı, yönetim ve denetim kurulları üye tam sayısının iki katından az olamaz.
 
-##DERNEĞİN FESHİ VE MAL VARLIĞININ TASFİYE ŞEKLİ
-###MADDE 22-GENEL KURUL, HER ZAMAN DERNEĞİN FESHİNE KARAR VEREBİLİR.
-Genel kurulda fesih konusunun görüşülebilmesi için genel kurula katılma hakkı bulunan üyelerin 2/3 çoğunluğu aranır. Çoğunluğun sağlanamaması sebebiyle toplantının ertelenmesi durumunda ikinci toplantıda çoğunluk aranmaz. Ancak, bu toplantıya katılan üye sayısı, yönetim ve denetim kurulları üye tam sayısının iki katından az olamaz.
+- Tüzük değişikliği için gerekli olan karar çoğunluğu toplantıya katılan ve oy kullanma hakkı bulunan üyelerin oylarının 2/3’ü’dür. Genel kurulda tüzük değişikliği oylaması açık olarak yapılır.
 
-Fesih kararının alınabilmesi için gerekli olan karar çoğunluğu toplantıya katılan ve oy kullanma hakkı bulunan üyelerin oylarının 2/3’ü’dür. Genel kurulda fesih kararı oylaması açık olarak yapılır.
+## DERNEĞİN FESHİ VE MAL VARLIĞININ TASFİYE ŞEKLİ
+### MADDE 22-GENEL KURUL, HER ZAMAN DERNEĞİN FESHİNE KARAR VEREBİLİR.
+- Genel kurulda fesih konusunun görüşülebilmesi için genel kurula katılma hakkı bulunan üyelerin 2/3 çoğunluğu aranır. Çoğunluğun sağlanamaması sebebiyle toplantının ertelenmesi durumunda ikinci toplantıda çoğunluk aranmaz. Ancak, bu toplantıya katılan üye sayısı, yönetim ve denetim kurulları üye tam sayısının iki katından az olamaz.
 
-####TASFİYE İŞLEMLERİ
-Genel kurulca fesih kararı verildiğinde, derneğin para, mal ve haklarının tasfiyesi son yönetim kurulu üyelerinden oluşan tasfiye kurulunca yapılır. Bu işlemlere, feshe ilişkin genel kurul kararının alındığı veya kendiliğinden sona erme halinin kesinleştiği tarihten itibaren başlanır. Tasfiye süresi içinde bütün işlemlerde dernek adında “Tasfiye Halinde Yazılım Geliştiricileri Derneği” ibaresi kullanılır.
+- Fesih kararının alınabilmesi için gerekli olan karar çoğunluğu toplantıya katılan ve oy kullanma hakkı bulunan üyelerin oylarının 2/3’ü’dür. Genel kurulda fesih kararı oylaması açık olarak yapılır.
 
-Tasfiye kurulu, mevzuata uygun olarak derneğin para, mal ve haklarının tasfiyesi işlemlerini baştan sonuna kadar tamamlamakla görevli ve yetkilidir. Bu kurul, önce derneğin hesaplarını inceler. İnceleme esnasında derneğe ait defterler, alındı belgeleri, harcama belgeleri, tapu ve banka kayıtları ile diğer belgelerinin tespiti yapılarak varlık ve yükümlülükleri bir tutanağa bağlanır. Tasfiye işlemeleri sırasında derneğin alacaklılarına çağrıda bulunulur ve varsa malları paraya çevrilerek alacaklılara ödenir. Derneğin alacaklı olması durumunda alacaklar tahsil edilir. Alacakların tahsil edilmesi ve borçların ödenmesinden sonra kalan tüm para, mal ve hakları, genel kurulda belirlenen yere devredilir. Genel kurulda, devredilecek yer belirlenmemişse derneğin bulunduğu ildeki amacına en yakın ve fesih edildiği tarihte en fazla üyeye sahip derneğe devredilir.
+#### TASFİYE İŞLEMLERİ
+- Genel kurulca fesih kararı verildiğinde, derneğin para, mal ve haklarının tasfiyesi son yönetim kurulu üyelerinden oluşan tasfiye kurulunca yapılır. Bu işlemlere, feshe ilişkin genel kurul kararının alındığı veya kendiliğinden sona erme halinin kesinleştiği tarihten itibaren başlanır. Tasfiye süresi içinde bütün işlemlerde dernek adında “Tasfiye Halinde Yazılım Geliştiricileri Derneği” ibaresi kullanılır.
 
-Tasfiyeye ilişkin tüm işlemler tasfiye tutanağında gösterilir ve tasfiye işlemleri, mülki idare amirliklerince haklı bir nedene dayanılarak verilen ek süreler hariç üç ay içinde tamamlanır.
+- Tasfiye kurulu, mevzuata uygun olarak derneğin para, mal ve haklarının tasfiyesi işlemlerini baştan sonuna kadar tamamlamakla görevli ve yetkilidir. Bu kurul, önce derneğin hesaplarını inceler. İnceleme esnasında derneğe ait defterler, alındı belgeleri, harcama belgeleri, tapu ve banka kayıtları ile diğer belgelerinin tespiti yapılarak varlık ve yükümlülükleri bir tutanağa bağlanır. Tasfiye işlemeleri sırasında derneğin alacaklılarına çağrıda bulunulur ve varsa malları paraya çevrilerek alacaklılara ödenir. Derneğin alacaklı olması durumunda alacaklar tahsil edilir. Alacakların tahsil edilmesi ve borçların ödenmesinden sonra kalan tüm para, mal ve hakları, genel kurulda belirlenen yere devredilir. Genel kurulda, devredilecek yer belirlenmemişse derneğin bulunduğu ildeki amacına en yakın ve fesih edildiği tarihte en fazla üyeye sahip derneğe devredilir.
 
-Derneğin para, mal ve haklarının tasfiye ve intikal işlemlerinin tamamlanmasını müteakip tasfiye kurulu tarafından durumun yedi gün içinde bir yazı ile dernek merkezinin bulunduğu yerin mülki idare amirliğine bildirilmesi ve bu yazıya tasfiye tutanağının da eklenmesi zorunludur.
+- Tasfiyeye ilişkin tüm işlemler tasfiye tutanağında gösterilir ve tasfiye işlemleri, mülki idare amirliklerince haklı bir nedene dayanılarak verilen ek süreler hariç üç ay içinde tamamlanır.
 
-Derneğin defter ve belgelerini tasfiye kurulu sıfatıyla son yönetim kurulu üyeleri saklamakla görevlidir. Bu görev, bir yönetim kurulu üyesine de verilebilir. Bu defter ve belgelerin saklanma süresi beş yıldır.
+- Derneğin para, mal ve haklarının tasfiye ve intikal işlemlerinin tamamlanmasını müteakip tasfiye kurulu tarafından durumun yedi gün içinde bir yazı ile dernek merkezinin bulunduğu yerin mülki idare amirliğine bildirilmesi ve bu yazıya tasfiye tutanağının da eklenmesi zorunludur.
 
-##HÜKÜM EKSİKLİĞİ
-###MADDE 23
--Bu tüzükte belirtilmemiş hususlarda Dernekler Kanunu, Türk Medeni Kanunu ve bu Kanunlara atfen çıkartılmış olan Dernekler Yönetmeliği ve ilgili diğer mevzuatın dernekler hakkındaki hükümleri uygulanır.
+- Derneğin defter ve belgelerini tasfiye kurulu sıfatıyla son yönetim kurulu üyeleri saklamakla görevlidir. Bu görev, bir yönetim kurulu üyesine de verilebilir. Bu defter ve belgelerin saklanma süresi beş yıldır.
+
+## HÜKÜM EKSİKLİĞİ
+### MADDE 23
+- Bu tüzükte belirtilmemiş hususlarda Dernekler Kanunu, Türk Medeni Kanunu ve bu Kanunlara atfen çıkartılmış olan Dernekler Yönetmeliği ve ilgili diğer mevzuatın dernekler hakkındaki hükümleri uygulanır.
 
 Bu tüzük 23 (Yirmiüç) maddeden ibarettir.
