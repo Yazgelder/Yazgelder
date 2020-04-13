@@ -1,103 +1,102 @@
-#YAZILIM GELİŞTİRİCİLERİ DERNEĞİ TÜZÜĞÜ
-##DERNEĞİN ADI VE MERKEZİ
-###MADDE 1-
-Derneğin adı "Yazılım Geliştiricileri Derneği " olup kısa şekli olarak da “YAZGELDER” unvanını kullanacaktır. Merkezi İstanbul’dur. Şubesi açılmayacaktır.
+# YAZILIM GELİŞTİRİCİLERİ DERNEĞİ TÜZÜĞÜ
+## DERNEĞİN ADI VE MERKEZİ
+### MADDE 1
+- Derneğin adı "Yazılım Geliştiricileri Derneği " olup kısa şekli olarak da “YAZGELDER” unvanını kullanacaktır. Merkezi İstanbul’dur. Şubesi açılmayacaktır.
 
-##DERNEĞİN AMACI VE BU AMACI GERÇEKLEŞTİRMEK İÇİN DERNEKÇE SÜRDÜRÜLECEK ÇALIŞMA KONULARI VE BİÇİMLERİ İLE FAALİYET ALANI
-###MADDE 2-
-Mesleki birlik ve dayanışmayı, yeni geliştiricilerin yetiştirilmesi ve yol gösterilmesi sağlamak, bilgi ve birikim paylaşımını sağlamak, geliştiricilerin haklarını savunmada yardımcı olmak, sektör üzerinde sosyal sorumluluk projeleri üstlenerek ülkemiz için katma değer oluşturmak için; bilişim sektörü ile ilgili her türlü çalışma ve düzenlemenin toplumsal ve sektörel gelişmeye katkı sağlayacak biçimde çağdaş boyutlarda gerçekleşmesini temin etmek amacıyla kurulmuştur.
+## DERNEĞİN AMACI VE BU AMACI GERÇEKLEŞTİRMEK İÇİN DERNEKÇE SÜRDÜRÜLECEK ÇALIŞMA KONULARI VE BİÇİMLERİ İLE FAALİYET ALANI
+### MADDE 2
+- Mesleki birlik ve dayanışmayı, yeni geliştiricilerin yetiştirilmesi ve yol gösterilmesi sağlamak, bilgi ve birikim paylaşımını sağlamak, geliştiricilerin haklarını savunmada yardımcı olmak, sektör üzerinde sosyal sorumluluk projeleri üstlenerek ülkemiz için katma değer oluşturmak için; bilişim sektörü ile ilgili her türlü çalışma ve düzenlemenin toplumsal ve sektörel gelişmeye katkı sağlayacak biçimde çağdaş boyutlarda gerçekleşmesini temin etmek amacıyla kurulmuştur.
 
-##DERNEKÇE SÜRDÜRÜLECEK ÇALIŞMA KONULARI VE BİÇİMLERİ VE PRENSİPLERİ :
-Yazılım geliştiricileri bir araya toplamak, mesleki gelişim ve dayanışmalarını sağlamak,
-Sektörün gelişmesi için üyelerin ve sektör çalışanlarının eğitilmesi, yenilikler konusunda bilgilendirilmesi için eğitim ve seminer faaliyetlerinde bulunmak,
-Sektöre kalifiye eleman yetiştirilmesi ve sektör çalışanlarının kalitesinin artırılması için gerekli faaliyetlerde bulunmak,
-Sektöründeki insan gücünün verimlilik ve etkinliğini arttırmak, insana yapılan yatırımları desteklemek,
-Sektörle ilgili standartlar, terminoloji, eğitim, yasal düzenlemeler, çalışma koşulları gibi konularda yol göstermek ve destek vermek,
-Yazılımla ilgili toplumsal sorunlara çözüm önerileri geliştirmek
-Yazılım konusunda kamusal yararı önde tutan politika ve kararların oluşmasını sağlamak,
-Teknik ve bilimsel danışmanlık olanağı sağlamak, raporlar hazırlamak veya hazırlattırmak, bilgi alış verişi ve işbirliği olanakları yaratmak,
-Yazılım ve platformlardaki dünyada yaşanan gelişmeleri izlemek ve ülkemize aktarılmasına yardımcı olmak,
-Yazılımla ve yazılım geliştiricilerin çalışma şartlarıyla ilgili her türlü uygulama ve yasal düzenlemeler konusunda görüş ve önerilerini ilgililerin dikkatine sunmak, plan ve politikalar oluşmasına katkı sağlamak,
-Derneğin çalışma alanlarını ilgilendiren mevzuatın geliştirilmesi için öneriler hazırlamak, bu önerileri ilgili kurum ve kuruluşlara iletmek, görüşmeler yapmak, gelişmeleri kamuoyuna yansıtmak,
-Üyelerin, derneğin amacına yönelik bilgi ve becerilerini, beşeri münasebetlerini artırmak, devam ettirmek ve geliştirmek amacıyla konferans, sempozyum, panel, seminer, yemekli toplantı, konser, tiyatro, sergi, spor müsabakaları, yarışmalar, geziler, fuarlar, vb. her tür etkinliği düzenlemek, lokal açmak, sosyal ve kültürel tesisler kurmak, animasyon, gösteri ve tiyatro grupları, çocuk, genç ve yetişkin kulüpleri kurmak,
-Faaliyetlerin etkinleştirilmesi ve geliştirilmesi için araştırmalar yapmak ve bunların sonuçlarını yayınlamak
-Amacın gerçekleştirilmesi için gerekli olan her türlü bilgi, belge, doküman ve yayınları temin etmek, dokümantasyon merkezi oluşturmak,
-Anketler, kamuoyu araştırmaları yapmak,
-Çalışmalarını duyurmak ve toplumun bilgilendirilme hakkını kullanmasına yönelik olarak amaçları doğrultusunda gazete, dergi, kitap gibi yayınlar ve bilgilendirici bültenleri çıkarmak, televizyon ve radyo programları yapmak ve bu gibi her tür yayın aracını kullanmak,
-WEB Sayfaları, internet portalı kurmak, işletmek, internet üzerinden amaçları ile ilgili online(çevrimiçi) eğitim hizmetleri sunmak, iletişim merkezleri kurmak,
-Amacın gerçekleştirilmesi için sağlıklı bir çalışma ortamını sağlamak, her tür teknik araç ve gereci, demirbaş ve kırtasiye malzemelerini temin etmek,
-Geniş anlamda sektör ile ilgili bilimsel çalışma ve araştırmalar yapmak, toplantılar düzenlemek ya da bunların yapılmasını desteklemek, koordine etmek, yönetmek, edindiği bilgi ve deneyimleri paylaşmak, yaymak,
-Faaliyet alanına yönelik ve genel amaçlı kütüphane oluşturmak ve gerek üyelerin gerek hedef kitlenin kullanımına sunmak, bilimsel araştırma ve gelişmeleri takip etmek ve alanındaki yenilikleri üyelere ve hedef kitleye duyurmak,
-21-Yazılım konusunda danışmanlık hizmeti vermek, hedef kitleye yönelik paket seminer programları düzenlemek ve yerinde eğitim takviye ve destek çalışmaları yapmak,
-Özel Eğitim Kanunlarına uygun ve mevzuata uygun özel eğitim kurumları açmak, işletmek amacıyla, arazi ve arsa satın almak, imar planına uygun olarak bu arsa ve arazi üzerinde okulöncesi eğitim, ilköğretim, enstitü, kurs, dershane, ilmî araştırma-geliştirme merkezleri, özel lojmanlar ve öğrenci yurtları kurmak, bu kurumların işletilmesini doğrudan veya dolaylı olarak üstlenmek, kiralamak ve bunlara her türlü aynî ve nakdî yardımda bulunmak.
-İhtiyaç sahibi Türk ve yabancı uyruklu öğrencilere yurt içi ve yurt dışı her türlü eğitim ve öğretim yardımı yapmak,
-Sektörel düzeyde eğitim amaçlı yayın, araç ve gereç üretmek, pazarlamak, satmak, dernek amacı doğrultusunda kazancı kullanmak,
-Bilişimli ilgili, kültür, basın-yayın, tanıtım çalışmaları yapmak ve benzeri etkinliklerde bulunmak, fuar, sergi vb. organizasyonlar düzenlemek.
-Amacın gerçekleştirilmesi için gönüllü ve ücretli eleman istihdam etmek ve yönetim kurulu kararıyla ücretli elemanların sosyal hak ve güvencelerini temin etmek,
-Gerekli izinler alınmak suretiyle yardım toplama faaliyetlerinde bulunmak, yurt içinden ve yurt dışından bağış kabul etmek,
-Tüzük amaçlarının gerçekleştirilmesi için ihtiyaç duyduğu gelirleri temin etmek amacıyla iktisadî, ticarî ve sanayi işletmeler kurmak ve işletmek,
-Dernek faaliyetleri için ihtiyaç duyulan taşınır-taşınmaz malları satın almak, satmak, kiralamak, taşınmazlar üzerinde aynî hak tesis etmek, her çeşit menkul mal ve değerleri alıp satmak ve üzerlerinde her çeşit tasarrufta bulunmak, gerekli her tür inşaatı yapmak, yaptırmak, tesisler kurmak,
-Uluslar arası faaliyette bulunmak, yurt içi ve yurt dışındaki dernek veya diğer kuruluşlara üye olmak, ilgili mevzuata uygun olarak kamu kurum, kuruluşları ve üniversiteler ile proje bazında ortak çalışmalar yapmak ve yardımlaşmak,
-Dernek üyelerinin ulusal ve uluslar arası düzeyde ağlara katılımlarını ve yeni ağlar oluşturmalarını desteklemek,
-Derneğin amacını gerçekleştirmek için benzer amaçlı derneklerden, işçi ve işveren sendikalarından ve meslekî kuruluşlardan maddî yardım almak ve adı geçen kurumlara maddî yardımda bulunmak,
-Yardım Toplama Kanunu, ilgili diğer mevzuat ve bu tüzük hükümlerine uygun olarak yardım ve bağış toplamak; şartlı ve şartsız vasiyetleri kabul etmek
-Amacın gerçekleştirilmesi için gerek görülmesi durumunda yurt içinde ve yurt dışında vakıf kurmak, federasyon kurmak veya kurulu bir federasyona katılmak, gerekli izin alınarak derneklerin kurabileceği tesisleri kurmak,
-Uluslararası faaliyette bulunmak, yurt dışındaki dernek veya kuruluşlara üye olmak ve bu kuruluşlarla ortak çalışmalar yapmak veya yardımlaşmak,
-Amacın gerçekleştirilmesi için gerek görülmesi halinde, 5072 sayılı Dernek ve Vakıfların Kamu Kurum ve Kuruluşları ile İlişkilerine Dair Kanun hükümleri saklı kalmak üzere, kamu kurum ve kuruluşları ile görev alanlarına giren konularda ortak projeler yürütmek,
-Dernek üyelerinin yiyecek, giyecek gibi zaruri ihtiyaç maddelerini ve diğer mal ve hizmetlerle kısa vadeli kredi ihtiyaçlarını karşılamak amacıyla sandık kurmak,
-Gerekli görülen yerlerde temsilcilikler açmak,
-DERNEĞİN FAALİYET ALANI
-Dernek, mesleki dayanışma ve sosyal alanda yurt içinde ve yurt dışında faaliyet gösterir.
+## DERNEKÇE SÜRDÜRÜLECEK ÇALIŞMA KONULARI VE BİÇİMLERİ VE PRENSİPLERİ :
+- Yazılım geliştiricileri bir araya toplamak, mesleki gelişim ve dayanışmalarını sağlamak,
+- Sektörün gelişmesi için üyelerin ve sektör çalışanlarının eğitilmesi, yenilikler konusunda bilgilendirilmesi için eğitim ve seminer faaliyetlerinde bulunmak,
+- Sektöre kalifiye eleman yetiştirilmesi ve sektör çalışanlarının kalitesinin artırılması için gerekli faaliyetlerde bulunmak,
+- Sektöründeki insan gücünün verimlilik ve etkinliğini arttırmak, insana yapılan yatırımları desteklemek,
+- Sektörle ilgili standartlar, terminoloji, eğitim, yasal düzenlemeler, çalışma koşulları gibi konularda yol göstermek ve destek vermek,
+- Yazılımla ilgili toplumsal sorunlara çözüm önerileri geliştirmek
+- Yazılım konusunda kamusal yararı önde tutan politika ve kararların oluşmasını sağlamak,
+- Teknik ve bilimsel danışmanlık olanağı sağlamak, raporlar hazırlamak veya hazırlattırmak, bilgi alış verişi ve işbirliği olanakları yaratmak,
+- Yazılım ve platformlardaki dünyada yaşanan gelişmeleri izlemek ve ülkemize aktarılmasına yardımcı olmak,
+- Yazılımla ve yazılım geliştiricilerin çalışma şartlarıyla ilgili her türlü uygulama ve yasal düzenlemeler konusunda görüş ve önerilerini ilgililerin dikkatine sunmak, plan ve politikalar oluşmasına katkı sağlamak,
+- Derneğin çalışma alanlarını ilgilendiren mevzuatın geliştirilmesi için öneriler hazırlamak, bu önerileri ilgili kurum ve kuruluşlara iletmek, görüşmeler yapmak, gelişmeleri kamuoyuna yansıtmak,
+- Üyelerin, derneğin amacına yönelik bilgi ve becerilerini, beşeri münasebetlerini artırmak, devam ettirmek ve geliştirmek amacıyla konferans, sempozyum, panel, seminer, yemekli toplantı, konser, tiyatro, sergi, spor müsabakaları, yarışmalar, geziler, fuarlar, vb. her tür etkinliği düzenlemek, lokal açmak, sosyal ve kültürel tesisler kurmak, animasyon, gösteri ve tiyatro grupları, çocuk, genç ve yetişkin kulüpleri kurmak,
+- Faaliyetlerin etkinleştirilmesi ve geliştirilmesi için araştırmalar yapmak ve bunların sonuçlarını yayınlamak
+- Amacın gerçekleştirilmesi için gerekli olan her türlü bilgi, belge, doküman ve yayınları temin etmek, dokümantasyon merkezi oluşturmak,
+- Anketler, kamuoyu araştırmaları yapmak,
+- Çalışmalarını duyurmak ve toplumun bilgilendirilme hakkını kullanmasına yönelik olarak amaçları doğrultusunda gazete, dergi, kitap gibi yayınlar ve bilgilendirici bültenleri çıkarmak, televizyon ve radyo programları yapmak ve bu gibi her tür yayın aracını kullanmak,
+- WEB Sayfaları, internet portalı kurmak, işletmek, internet üzerinden amaçları ile ilgili online(çevrimiçi) eğitim hizmetleri sunmak, iletişim merkezleri kurmak,
+- Amacın gerçekleştirilmesi için sağlıklı bir çalışma ortamını sağlamak, her tür teknik araç ve gereci, demirbaş ve kırtasiye malzemelerini temin etmek,
+- Geniş anlamda sektör ile ilgili bilimsel çalışma ve araştırmalar yapmak, toplantılar düzenlemek ya da bunların yapılmasını desteklemek, koordine etmek, yönetmek, edindiği bilgi ve deneyimleri paylaşmak, yaymak,
+- Faaliyet alanına yönelik ve genel amaçlı kütüphane oluşturmak ve gerek üyelerin gerek hedef kitlenin kullanımına sunmak, bilimsel araştırma ve gelişmeleri takip etmek ve alanındaki yenilikleri üyelere ve hedef kitleye duyurmak,
+- Yazılım konusunda danışmanlık hizmeti vermek, hedef kitleye yönelik paket seminer programları düzenlemek ve yerinde eğitim takviye ve destek çalışmaları yapmak,
+- Özel Eğitim Kanunlarına uygun ve mevzuata uygun özel eğitim kurumları açmak, işletmek amacıyla, arazi ve arsa satın almak, imar planına uygun olarak bu arsa ve arazi üzerinde okulöncesi eğitim, ilköğretim, enstitü, kurs, dershane, ilmî araştırma-geliştirme merkezleri, özel lojmanlar ve öğrenci yurtları kurmak, bu kurumların işletilmesini doğrudan veya dolaylı olarak üstlenmek, kiralamak ve bunlara her türlü aynî ve nakdî yardımda bulunmak.
+- İhtiyaç sahibi Türk ve yabancı uyruklu öğrencilere yurt içi ve yurt dışı her türlü eğitim ve öğretim yardımı yapmak,
+- Sektörel düzeyde eğitim amaçlı yayın, araç ve gereç üretmek, pazarlamak, satmak, dernek amacı doğrultusunda kazancı kullanmak,
+- Bilişimli ilgili, kültür, basın-yayın, tanıtım çalışmaları yapmak ve benzeri etkinliklerde bulunmak, fuar, sergi vb. organizasyonlar düzenlemek.
+- Amacın gerçekleştirilmesi için gönüllü ve ücretli eleman istihdam etmek ve yönetim kurulu kararıyla ücretli elemanların sosyal hak ve güvencelerini temin etmek,
+- Gerekli izinler alınmak suretiyle yardım toplama faaliyetlerinde bulunmak, yurt içinden ve yurt dışından bağış kabul etmek,
+- Tüzük amaçlarının gerçekleştirilmesi için ihtiyaç duyduğu gelirleri temin etmek amacıyla iktisadî, ticarî ve sanayi işletmeler kurmak ve işletmek,
+- Dernek faaliyetleri için ihtiyaç duyulan taşınır-taşınmaz malları satın almak, satmak, kiralamak, taşınmazlar üzerinde aynî hak tesis etmek, her çeşit menkul mal ve değerleri alıp satmak ve üzerlerinde her çeşit tasarrufta bulunmak, gerekli her tür inşaatı yapmak, yaptırmak, tesisler kurmak,
+- Uluslar arası faaliyette bulunmak, yurt içi ve yurt dışındaki dernek veya diğer kuruluşlara üye olmak, ilgili mevzuata uygun olarak kamu kurum, kuruluşları ve üniversiteler ile proje bazında ortak çalışmalar yapmak ve yardımlaşmak,
+- Dernek üyelerinin ulusal ve uluslar arası düzeyde ağlara katılımlarını ve yeni ağlar oluşturmalarını desteklemek,
+- Derneğin amacını gerçekleştirmek için benzer amaçlı derneklerden, işçi ve işveren sendikalarından ve meslekî kuruluşlardan maddî yardım almak ve adı geçen kurumlara maddî yardımda bulunmak,
+- Yardım Toplama Kanunu, ilgili diğer mevzuat ve bu tüzük hükümlerine uygun olarak yardım ve bağış toplamak; şartlı ve şartsız vasiyetleri kabul etmek
+- Amacın gerçekleştirilmesi için gerek görülmesi durumunda yurt içinde ve yurt dışında vakıf kurmak, federasyon kurmak veya kurulu bir federasyona katılmak, gerekli izin alınarak derneklerin kurabileceği tesisleri kurmak,
+- Uluslararası faaliyette bulunmak, yurt dışındaki dernek veya kuruluşlara üye olmak ve bu kuruluşlarla ortak çalışmalar yapmak veya yardımlaşmak,
+- Amacın gerçekleştirilmesi için gerek görülmesi halinde, 5072 sayılı Dernek ve Vakıfların Kamu Kurum ve Kuruluşları ile İlişkilerine Dair Kanun hükümleri saklı kalmak üzere, kamu kurum ve kuruluşları ile görev alanlarına giren konularda ortak projeler yürütmek,
+- Dernek üyelerinin yiyecek, giyecek gibi zaruri ihtiyaç maddelerini ve diğer mal ve hizmetlerle kısa vadeli kredi ihtiyaçlarını karşılamak amacıyla sandık kurmak,
+- Gerekli görülen yerlerde temsilcilikler açmak,
+- DERNEĞİN FAALİYET ALANI
+- Dernek, mesleki dayanışma ve sosyal alanda yurt içinde ve yurt dışında faaliyet gösterir.
 
-##ÜYE OLMA HAKKI VE ÜYELİK İŞLEMLERİ
-###MADDE 3
-####ASLİ ÜYELİK:
-Fiil ehliyetine sahip bulunan, derneğin amaç ve ilkelerini benimseyerek bu doğrultuda çalışmayı kabul eden, Mevzuatın öngördüğü koşullarını taşıyan ve bilişim sektöründe faaliyet gösteren her gerçek ve tüzel kişi bu derneğe üye olma hakkına sahiptir. Ancak, yabancı gerçek kişilerin üye olabilmesi için Türkiye’de yerleşme hakkına sahip olması da gerekir. Onursal üyelik için bu koşul aranmaz.
+## ÜYE OLMA HAKKI VE ÜYELİK İŞLEMLERİ
+### MADDE 3
+#### ASLİ ÜYELİK:
+- Fiil ehliyetine sahip bulunan, derneğin amaç ve ilkelerini benimseyerek bu doğrultuda çalışmayı kabul eden, Mevzuatın öngördüğü koşullarını taşıyan ve bilişim sektöründe faaliyet gösteren her gerçek ve tüzel kişi bu derneğe üye olma hakkına sahiptir. Ancak, yabancı gerçek kişilerin üye olabilmesi için Türkiye’de yerleşme hakkına sahip olması da gerekir. Onursal üyelik için bu koşul aranmaz.
 
-Derneğe asli, fahri ve onursal üye olmak isteyenlerin, en az 2 asli üye tarafından yazılı olarak tanıtılıp önerilmek koşuluyla, dolduracakları üyelik başvuru formu ile dernek merkezine başvururlar.
+- Derneğe asli, fahri ve onursal üye olmak isteyenlerin, en az 2 asli üye tarafından yazılı olarak tanıtılıp önerilmek koşuluyla, dolduracakları üyelik başvuru formu ile dernek merkezine başvururlar.
 
-Asli Üyelik için başvuranların durumu, Yönetim Kurulu tarafından, derneğin amaç ve ilkelerini gerçekleştirmesine yaptıkları veya yapabilecekleri katkılar açısından değerlendirilmek suretiyle 30 gün içinde üyeliğe kabul veya isteğin reddi şeklinde karara bağlanır.
+- Asli Üyelik için başvuranların durumu, Yönetim Kurulu tarafından, derneğin amaç ve ilkelerini gerçekleştirmesine yaptıkları veya yapabilecekleri katkılar açısından değerlendirilmek suretiyle 30 gün içinde üyeliğe kabul veya isteğin reddi şeklinde karara bağlanır.
 
-####FAHRİ ÜYELİK :
-Dernek amaç ve ilkelerine önemli bir ölçüde katkı sağlayamasa bile dernek içinde bulunma arzusu taşıyanlara, derneğin asli üyesi olmayan ancak derneğin amacına yönelik çalışmalara katkıda bulunmak isteyen kişilere başvuruları üzerine yönetim kurulu kararıyla fahri üyelik verilebilir. Bu durumdaki gerçek ve tüzel kişiler derneğe fahri üye kaydedilebilir. Fahri üyeler, genel kurul toplantılarına katılabilirler ancak organlara seçilemez ve oy kullanamazlar.
+#### FAHRİ ÜYELİK :
+- Dernek amaç ve ilkelerine önemli bir ölçüde katkı sağlayamasa bile dernek içinde bulunma arzusu taşıyanlara, derneğin asli üyesi olmayan ancak derneğin amacına yönelik çalışmalara katkıda bulunmak isteyen kişilere başvuruları üzerine yönetim kurulu kararıyla fahri üyelik verilebilir. Bu durumdaki gerçek ve tüzel kişiler derneğe fahri üye kaydedilebilir. Fahri üyeler, genel kurul toplantılarına katılabilirler ancak organlara seçilemez ve oy kullanamazlar.
 
-Derneğe, derneğin amaç ve ilkelerini gerçekleştirmesine uzun süre ve önemli ölçüde katkıda bulunanlara Yönetim Kurulu kararıyla onur belgesi verilebilir. Fahri üyeler ve onur belgesi verilenler için ayrı bir üyelik defteri tutulur.
+- Derneğe, derneğin amaç ve ilkelerini gerçekleştirmesine uzun süre ve önemli ölçüde katkıda bulunanlara Yönetim Kurulu kararıyla onur belgesi verilebilir. Fahri üyeler ve onur belgesi verilenler için ayrı bir üyelik defteri tutulur.
 
-Dernek asli üyeleri ve fahri üyeleri kendi aralarında eşit haklara sahiptirler. Sadece asli üyeler, oy kullanma, seçme ve seçilme hakkına sahiptirler. Her üye oyunu bizzat kullanır. Üyeler kendileriyle ilgili konularda oylamalara katılmazlar.
+- Dernek asli üyeleri ve fahri üyeleri kendi aralarında eşit haklara sahiptirler. Sadece asli üyeler, oy kullanma, seçme ve seçilme hakkına sahiptirler. Her üye oyunu bizzat kullanır. Üyeler kendileriyle ilgili konularda oylamalara katılmazlar.
 
-Tüm üyeler, yasa ve tüzük hükümlerine, yetkili kurul kararlarına uymak, yönetim kurulunca verilecek görevleri yerine getirmek, aidatını zamanında ödemek, derneğin amaç ve ilkelerine uygun davranmak, bu amaç ve ilkelerin gerçekleşmesini zorlaştırıcı tavır ve davranışlardan kaçınmak, dernek tüzel kişiliğinin saygınlığını korumaya ve artırmaya özen göstermekle yükümlüdür.
+- Tüm üyeler, yasa ve tüzük hükümlerine, yetkili kurul kararlarına uymak, yönetim kurulunca verilecek görevleri yerine getirmek, aidatını zamanında ödemek, derneğin amaç ve ilkelerine uygun davranmak, bu amaç ve ilkelerin gerçekleşmesini zorlaştırıcı tavır ve davranışlardan kaçınmak, dernek tüzel kişiliğinin saygınlığını korumaya ve artırmaya özen göstermekle yükümlüdür.
 
-ONURSAL ÜYELİK VE ONURSAL BAŞKANLIK
-###MADDE 4-
-Derneğin amacına uygun çalışmalara herhangi bir yoldan katkıda bulunana ve derneğe üyeliği ile onur verebilecek nitelikteki şahsiyetlere dernekçe verilen payedir. Yönetim Kurulu kararı ile verilen onursal üyelik ve başkanlık payeleri Genel Kurul‟un bilgisine arz olunur. Onur üyeleri aidat ödemezler, Genel Kurul‟a davet edilirler; burada söz hakkına sahiptirler, ancak oy kullanamazlar. Onursal başkan veya onursal üye dernek üyesi olduğu takdirde üyelik yükümlülüklerini haizdir.
+## ONURSAL ÜYELİK VE ONURSAL BAŞKANLIK
+### MADDE 4
+- Derneğin amacına uygun çalışmalara herhangi bir yoldan katkıda bulunana ve derneğe üyeliği ile onur verebilecek nitelikteki şahsiyetlere dernekçe verilen payedir. Yönetim Kurulu kararı ile verilen onursal üyelik ve başkanlık payeleri Genel Kurul‟un bilgisine arz olunur. Onur üyeleri aidat ödemezler, Genel Kurul‟a davet edilirler; burada söz hakkına sahiptirler, ancak oy kullanamazlar. Onursal başkan veya onursal üye dernek üyesi olduğu takdirde üyelik yükümlülüklerini haizdir.
 
-##ÜYELİKTEN ÇIKMA
-###MADDE 5
+## ÜYELİKTEN ÇIKMA
+### MADDE 5
 - Her üye yazılı olarak bildirmek kaydıyla, dernekten çıkma hakkına sahiptir.
 
 Üyenin istifa dilekçesi yönetim kuruluna ulaştığı anda çıkış işlemleri sonuçlanmış sayılır. Üyelikten ayrılma, üyenin derneğe olan birikmiş borçlarını sona erdirmez.
 
-##ÜYELİKTEN ÇIKARILMA
-###MADDE 6 -DERNEK ÜYELİĞİNDEN ÇIKARILMAYI GEREKTİREN HALLER.
-Dernek tüzüğüne aykırı davranışlarda bulunmak,
-Verilen görevlerden sürekli kaçınmak,
-Yazılı ikazlara rağmen üyelik aidatını iki ay içinde mazeret bildirmeksizin ödememek,
-Dernek organlarınca verilen kararlara uymamak.
-Üye olma şartlarını kaybetmiş olmak,
-Dernek üyeleri arasında huzursuzluğa sebebiyet verme,
-Türkiye devletinin terör olarak tanımladığı grupların propagandasını yapmak,
-Derneğin çıkarlarına karşı gelecek hal ve hareketlerde bulunmak,
-Yukarıda sayılan durumlardan birinin tespiti halinde yönetim kurulu kararı ile üyelikten çıkarılır.
+## ÜYELİKTEN ÇIKARILMA
+### MADDE 6 -DERNEK ÜYELİĞİNDEN ÇIKARILMAYI GEREKTİREN HALLER.
+- Dernek tüzüğüne aykırı davranışlarda bulunmak,
+- Verilen görevlerden sürekli kaçınmak,
+- Yazılı ikazlara rağmen üyelik aidatını iki ay içinde mazeret bildirmeksizin ödememek,
+- Dernek organlarınca verilen kararlara uymamak.
+- Üye olma şartlarını kaybetmiş olmak,
+- Dernek üyeleri arasında huzursuzluğa sebebiyet verme,
+- Türkiye devletinin terör olarak tanımladığı grupların propagandasını yapmak,
+- Derneğin çıkarlarına karşı gelecek hal ve hareketlerde bulunmak,
+- Yukarıda sayılan durumlardan birinin tespiti halinde yönetim kurulu kararı ile üyelikten çıkarılır.
+- Dernekten çıkan veya çıkarılanlar, üye kayıt defterinden silinir ve dernek malvarlığında hak iddia edemez.
 
-Dernekten çıkan veya çıkarılanlar, üye kayıt defterinden silinir ve dernek malvarlığında hak iddia edemez.
-
-##DERNEK ORGANLARI
-###MADDE 7-DERNEĞİN ORGANLARI AŞAĞIDA GÖSTERİLMİŞTİR.
-Genel Kurul,
-Yönetim Kurulu,
-Denetim Kurulu,
-##DERNEK GENEL KURULUNUN KURULUŞ ŞEKLİ, TOPLANMA ZAMANI VE ÇAĞRI VE TOPLANTI USULÜ
-###MADDE 8- GENEL KURUL, DERNEĞİN EN YETKİLİ KARAR ORGANI OLUP; DERNEĞE KAYITLI ÜYELERDEN OLUŞUR.
+## DERNEK ORGANLARI
+### MADDE 7-DERNEĞİN ORGANLARI AŞAĞIDA GÖSTERİLMİŞTİR.
+- Genel Kurul,
+- Yönetim Kurulu,
+- Denetim Kurulu,
+## DERNEK GENEL KURULUNUN KURULUŞ ŞEKLİ, TOPLANMA ZAMANI VE ÇAĞRI VE TOPLANTI USULÜ
+### MADDE 8- GENEL KURUL, DERNEĞİN EN YETKİLİ KARAR ORGANI OLUP; DERNEĞE KAYITLI ÜYELERDEN OLUŞUR.
 Genel kurul;
 
 1-Bu tüzükte belli edilen zamanda olağan,
@@ -106,91 +105,92 @@ Genel kurul;
 
 Olağan genel kurul, 3 yılda bir, Haziran ayı içerisinde, yönetim kurulunca belirlenecek gün yer ve saatte toplanır.
 
-####ÇAĞRI USULÜ
-Yönetim kurulu, dernek tüzüğüne göre genel kurula katılma hakkı bulunan üyelerin listesini düzenler. Genel kurula katılma hakkı bulunan üyeler, en az onbeş gün önceden, toplantının günü, saati, yeri ve gündemi web sitesi üzerinden, üyenin bildirdiği elektronik posta adresine ya da iletişim numarasına mesaj gönderilmek veya kayıtta belirtilen cep telefonu numarasına sms gönderilmesi suretiyle bildirilir. Bu çağrıda, çoğunluk sağlanamaması sebebiyle toplantı yapılamazsa, ikinci toplantının hangi gün, saat ve yerde yapılacağı da belirtilir. İlk toplantı ile ikinci toplantı arasındaki süre yedi günden az, altmış günden fazla olamaz.
+#### ÇAĞRI USULÜ
+- Yönetim kurulu, dernek tüzüğüne göre genel kurula katılma hakkı bulunan üyelerin listesini düzenler. Genel kurula katılma hakkı bulunan üyeler, en az onbeş gün önceden, toplantının günü, saati, yeri ve gündemi web sitesi üzerinden, üyenin bildirdiği elektronik posta adresine ya da iletişim numarasına mesaj gönderilmek veya kayıtta belirtilen cep telefonu numarasına sms gönderilmesi suretiyle bildirilir. Bu çağrıda, çoğunluk sağlanamaması sebebiyle toplantı yapılamazsa, ikinci toplantının hangi gün, saat ve yerde yapılacağı da belirtilir. İlk toplantı ile ikinci toplantı arasındaki süre yedi günden az, altmış günden fazla olamaz.
 
-Toplantı, çoğunluk sağlanamaması sebebinin dışında başka bir nedenle geri bırakılırsa, bu durum geri bırakma sebepleri de belirtilmek suretiyle, ilk toplantı için yapılan çağrı usulüne uygun olarak üyelere duyurulur. İkinci toplantının geri bırakma tarihinden itibaren en geç altı ay içinde yapılması zorunludur. Üyeler ikinci toplantıya, birinci fıkrada belirtilen esaslara göre yeniden çağrılır.
+- Toplantı, çoğunluk sağlanamaması sebebinin dışında başka bir nedenle geri bırakılırsa, bu durum geri bırakma sebepleri de belirtilmek suretiyle, ilk toplantı için yapılan çağrı usulüne uygun olarak üyelere duyurulur. İkinci toplantının geri bırakma tarihinden itibaren en geç altı ay içinde yapılması zorunludur. Üyeler ikinci toplantıya, birinci fıkrada belirtilen esaslara göre yeniden çağrılır.
 
-Genel kurul toplantısı bir defadan fazla geri bırakılamaz.
+- Genel kurul toplantısı bir defadan fazla geri bırakılamaz.
 
-####TOPLANTI USULÜ
-Genel kurul, katılma hakkı bulunan üyelerin salt çoğunluğunun, tüzük değişikliği ve derneğin feshi hallerinde ise üçte ikisinin katılımıyla toplanır; çoğunluğun sağlanamaması sebebiyle toplantının ertelenmesi durumunda ikinci toplantıda çoğunluk aranmaz. Ancak, bu toplantıya katılan üye sayısı, yönetim ve denetim kurulları üye tam sayısının iki katından az olamaz.
+#### TOPLANTI USULÜ
+- Genel kurul, katılma hakkı bulunan üyelerin salt çoğunluğunun, tüzük değişikliği ve derneğin feshi hallerinde ise üçte ikisinin katılımıyla toplanır; çoğunluğun sağlanamaması sebebiyle toplantının ertelenmesi durumunda ikinci toplantıda çoğunluk aranmaz. Ancak, bu toplantıya katılan üye sayısı, yönetim ve denetim kurulları üye tam sayısının iki katından az olamaz.
 
-Genel kurula katılma hakkı bulunan üyelerin listesi toplantı yerinde hazır bulundurulur. Toplantı yerine girecek üyelerin resmi makamlarca verilmiş kimlik belgeleri, yönetim kurulu üyeleri veya yönetim kurulunca görevlendirilecek görevliler tarafından kontrol edilir. Üyeler, yönetim kurulunca düzenlenen listedeki adları karşısına imza koyarak toplantı yerine girerler.
+- Genel kurula katılma hakkı bulunan üyelerin listesi toplantı yerinde hazır bulundurulur. Toplantı yerine girecek üyelerin resmi makamlarca verilmiş kimlik belgeleri, yönetim kurulu üyeleri veya yönetim kurulunca görevlendirilecek görevliler tarafından kontrol edilir. Üyeler, yönetim kurulunca düzenlenen listedeki adları karşısına imza koyarak toplantı yerine girerler.
 
-Toplantı yeter sayısı sağlanmışsa durum bir tutanakla tespit edilir ve toplantı yönetim kurulu başkanı veya görevlendireceği yönetim kurulu üyelerinden biri tarafından açılır. Toplantı yeter sayısı sağlanamaması halinde de yönetim kurulunca bir tutanak düzenlenir.
+- Toplantı yeter sayısı sağlanmışsa durum bir tutanakla tespit edilir ve toplantı yönetim kurulu başkanı veya görevlendireceği yönetim kurulu üyelerinden biri tarafından açılır. Toplantı yeter sayısı sağlanamaması halinde de yönetim kurulunca bir tutanak düzenlenir.
 
-Açılıştan sonra, toplantıyı yönetmek üzere bir başkan ve yeteri kadar başkan vekili ile yazman seçilerek divan heyeti oluşturulur.
+- Açılıştan sonra, toplantıyı yönetmek üzere bir başkan ve yeteri kadar başkan vekili ile yazman seçilerek divan heyeti oluşturulur.
 
-Dernek organlarının seçimi için yapılacak oylamalarda, oy kullanan üyelerin divan heyetine kimliklerini göstermeleri ve hazırun listesindeki isimlerinin karşılarını imzalamaları zorunludur.
+- Dernek organlarının seçimi için yapılacak oylamalarda, oy kullanan üyelerin divan heyetine kimliklerini göstermeleri ve hazırun listesindeki isimlerinin karşılarını imzalamaları zorunludur.
 
-Toplantının yönetimi ve güvenliğinin sağlanması divan başkanına aittir.
+- Toplantının yönetimi ve güvenliğinin sağlanması divan başkanına aittir.
 
-Genel kurulda, yalnızca gündemde yer alan maddeler görüşülür. Ancak toplantıda hazır bulunan üyelerin onda biri tarafından görüşülmesi yazılı olarak istenen konuların gündeme alınması zorunludur.
+- Genel kurulda, yalnızca gündemde yer alan maddeler görüşülür. Ancak toplantıda hazır bulunan üyelerin onda biri tarafından görüşülmesi yazılı olarak istenen konuların gündeme alınması zorunludur.
 
-Genel kurulda her üyenin bir oy hakkı vardır; üye oyunu şahsen kullanmak zorundadır. Onursal üyeler genel kurul toplantılarına katılabilir ancak oy kullanamazlar. Tüzel kişinin üye olması halinde, tüzel kişinin yönetim kurulu başkanı veya temsille görevlendireceği kişi oy kullanır
+- Genel kurulda her üyenin bir oy hakkı vardır; üye oyunu şahsen kullanmak zorundadır. Onursal üyeler genel kurul toplantılarına katılabilir ancak oy kullanamazlar. Tüzel kişinin üye olması halinde, tüzel kişinin yönetim kurulu başkanı veya temsille görevlendireceği kişi oy kullanır
 
-Toplantıda görüşülen konular ve alınan kararlar bir tutanağa yazılır ve divan başkanı ile yazmanlar tarafından birlikte imzalanır. Toplantı sonunda, tutanak ve diğer belgeler yönetim kurulu başkanına teslim edilir. Yönetim kurulu başkanı bu belgelerin korunmasından ve yeni seçilen yönetim kuruluna yedi gün içinde teslim etmekten sorumludur.
+- Toplantıda görüşülen konular ve alınan kararlar bir tutanağa yazılır ve divan başkanı ile yazmanlar tarafından birlikte imzalanır. Toplantı sonunda, tutanak ve diğer belgeler yönetim kurulu başkanına teslim edilir. Yönetim kurulu başkanı bu belgelerin korunmasından ve yeni seçilen yönetim kuruluna yedi gün içinde teslim etmekten sorumludur.
 
-##GENEL KURULUN OY KULLANMA VE KARAR ALMA USUL VE ŞEKİLLERİ
-###MADDE 8- GENEL KURULDA, AKSİNE KARAR ALINMAMIŞSA, OYLAMALAR AÇIK OLARAK YAPILIR.
-Açık oylamada, genel kurul başkanının belirteceği yöntem uygulanır.
+## GENEL KURULUN OY KULLANMA VE KARAR ALMA USUL VE ŞEKİLLERİ
+### MADDE 8- GENEL KURULDA, AKSİNE KARAR ALINMAMIŞSA, OYLAMALAR AÇIK OLARAK YAPILIR.
+- Açık oylamada, genel kurul başkanının belirteceği yöntem uygulanır.
 
-Gizli oylama yapılacak olması durumunda ise, toplantı başkanı tarafından mühürlenmiş kağıtlar veya oy pusulaları üyeler tarafından gereği yapıldıktan sonra içi boş bir kaba atılır ve oy vermenin bitiminden sonra açık dökümü yapılarak sonuç belirlenir.
+- Gizli oylama yapılacak olması durumunda ise, toplantı başkanı tarafından mühürlenmiş kağıtlar veya oy pusulaları üyeler tarafından gereği yapıldıktan sonra içi boş bir kaba atılır ve oy vermenin bitiminden sonra açık dökümü yapılarak sonuç belirlenir.
 
-Genel kurul kararları, toplantıya katılan üyelerin salt çoğunluğuyla alınır. Şu kadar ki, tüzük değişikliği ve derneğin feshi kararları, ancak toplantıya katılan üyelerin üçte iki çoğunluğuyla alınabilir.
+- Genel kurul kararları, toplantıya katılan üyelerin salt çoğunluğuyla alınır. Şu kadar ki, tüzük değişikliği ve derneğin feshi kararları, ancak toplantıya katılan üyelerin üçte iki çoğunluğuyla alınabilir.
 
-####TOPLANTISIZ VEYA ÇAĞRISIZ ALINAN KARARLAR
+#### TOPLANTISIZ VEYA ÇAĞRISIZ ALINAN KARARLAR
 Bütün üyelerin bir araya gelmeksizin yazılı katılımıyla alınan kararlar ile dernek üyelerinin tamamının bu tüzükte yazılı çağrı usulüne uymaksızın bir araya gelerek aldığı kararlar geçerlidir. Bu şekilde karar alınması olağan toplantı yerine geçmez.
 
-GENEL KURULUN GÖREV VE YETKİLERİ
-MADDE 9-AŞAĞIDA YAZILI HUSUSLAR GENEL KURULCA GÖRÜŞÜLÜP KARARA BAĞLANIR.
-Dernek organlarının seçilmesi,
-Dernek tüzüğünün değiştirilmesi,
-Yönetim ve denetim kurulları raporlarının görüşülmesi ve yönetim kurulunun ibrası,
-Yönetim kurulunca hazırlanan bütçenin görüşülüp aynen veya değiştirilerek kabul edilmesi,
-Derneğin diğer organlarının denetlenmesi ve gerek görüldüğünde haklı sebeplerle onların görevden alınması,
-Üyeliğin reddi veya üyelikten çıkarma hakkında verilen yönetim kurulu kararlarına karşı yapılan itirazların incelenmesi ve karara bağlanması,
-Dernek için gerekli olan taşınmaz malların satın alınması veya mevcut taşınmaz malların satılması hususunda yönetim kuruluna yetki verilmesi,
-Yönetim kurulunca dernek çalışmaları ile ilgili olarak hazırlanacak yönetmelikleri inceleyip aynen veya değiştirilerek onaylanması,
-Dernek yönetim ve denetim kurullarının kamu görevlisi olmayan başkan ve üyelerine verilecek ücret ile her türlü ödenek, yolluk ve tazminatlar ile dernek hizmetleri için görevlendirilecek üyelere verilecek gündelik ve yolluk miktarlarının tespit edilmesi,
-Derneğin federasyona katılması ve ayrılmasının kararlaştırılması ve bu hususta yönetim kuruluna yetki verilmesi,
+## GENEL KURULUN GÖREV VE YETKİLERİ
+### MADDE 9-AŞAĞIDA YAZILI HUSUSLAR GENEL KURULCA GÖRÜŞÜLÜP KARARA BAĞLANIR.
+- Dernek organlarının seçilmesi,
+- Dernek tüzüğünün değiştirilmesi,
+- Yönetim ve denetim kurulları raporlarının görüşülmesi ve yönetim kurulunun ibrası,
+- Yönetim kurulunca hazırlanan bütçenin görüşülüp aynen veya değiştirilerek kabul edilmesi,
+- Derneğin diğer organlarının denetlenmesi ve gerek görüldüğünde haklı sebeplerle onların görevden alınması,
+- Üyeliğin reddi veya üyelikten çıkarma hakkında verilen yönetim kurulu kararlarına karşı yapılan itirazların incelenmesi ve karara bağlanması,
+- Dernek için gerekli olan taşınmaz malların satın alınması veya mevcut taşınmaz malların satılması hususunda yönetim kuruluna yetki verilmesi,
+- Yönetim kurulunca dernek çalışmaları ile ilgili olarak hazırlanacak yönetmelikleri inceleyip aynen veya değiştirilerek onaylanması,
+- Dernek yönetim ve denetim kurullarının kamu görevlisi olmayan başkan ve üyelerine verilecek ücret ile her türlü ödenek, yolluk ve tazminatlar ile dernek hizmetleri için görevlendirilecek üyelere verilecek gündelik ve yolluk miktarlarının tespit edilmesi,
+- Derneğin federasyona katılması ve ayrılmasının kararlaştırılması ve bu hususta yönetim kuruluna yetki verilmesi,
 verilen temsilcilik ile ilgili işlemlerin yürütülmesi bir asli üyeye yetki vermesi,
-Derneğin uluslar arası faaliyette bulunması, yurt dışındaki dernek ve kuruluşlara üye olarak katılması veya ayrılması,
-Derneğin vakıf kurması,
-Derneğin fesih edilmesi,
-Yönetim kurulunun diğer önerilerinin incelenip karara bağlanması,
-Derneğin en yetkili organı olarak derneğin diğer bir organına verilmemiş olan işlerin görülmesi ve yetkilerin kullanılması,
-Mevzuatta genel kurulca yapılması belirtilen diğer görevlerin yerine getirilmesi,
-Genel kurul, derneğin diğer organlarını denetler ve onları haklı sebeplerle her zaman görevden alabilir.
+- Derneğin uluslar arası faaliyette bulunması, yurt dışındaki dernek ve kuruluşlara üye olarak katılması veya ayrılması,
+- Derneğin vakıf kurması,
+- Derneğin fesih edilmesi,
+- Yönetim kurulunun diğer önerilerinin incelenip karara bağlanması,
+- Derneğin en yetkili organı olarak derneğin diğer bir organına verilmemiş olan işlerin görülmesi ve yetkilerin kullanılması,
+- Mevzuatta genel kurulca yapılması belirtilen diğer görevlerin yerine getirilmesi,
+- Genel kurul, derneğin diğer organlarını denetler ve onları haklı sebeplerle her zaman görevden alabilir.
 
-Genel kurul, üyeliğe kabul ve üyelikten çıkarma hakkında son kararı verir. Derneğin en yetkili organı olarak derneğin diğer bir organına verilmemiş olan işleri görür ve yetkileri kullanır.
+- Genel kurul, üyeliğe kabul ve üyelikten çıkarma hakkında son kararı verir. Derneğin en yetkili organı olarak derneğin diğer bir organına verilmemiş olan işleri görür ve yetkileri kullanır.
 
-##YÖNETİM KURULUNUN TEŞKİLİ, GÖREV VE YETKİLERİ
-###MADDE 11 -YÖNETİM KURULU, 7 ASIL VE 7 YEDEK ÜYE OLARAK GENEL KURULCA SEÇİLİR.
-Yönetim kurulu, seçimden sonraki ilk toplantısında bir kararla görev bölüşümü yaparak başkan, başkan yardımcısı, sekreter, sayman ve üye’yi belirler.
+## YÖNETİM KURULUNUN TEŞKİLİ, GÖREV VE YETKİLERİ
+### MADDE 11 -YÖNETİM KURULU, 7 ASIL VE 7 YEDEK ÜYE OLARAK GENEL KURULCA SEÇİLİR.
+- Yönetim kurulu, seçimden sonraki ilk toplantısında bir kararla görev bölüşümü yaparak başkan, başkan yardımcısı, sekreter, sayman ve üye’yi belirler.
 
-Yönetim kurulu, tüm üyelerin haber edilmesi şartıyla her zaman toplantıya çağrılabilir. Üye tamsayısının yarısından bir fazlasının hazır bulunması ile toplanır. Kararlar, toplantıya katılan üye tam sayısının salt çoğunluğu ile alınır.
+- Yönetim kurulu, tüm üyelerin haber edilmesi şartıyla her zaman toplantıya çağrılabilir. Üye tamsayısının yarısından bir fazlasının hazır bulunması ile toplanır. Kararlar, toplantıya katılan üye tam sayısının salt çoğunluğu ile alınır.
 
-Yönetim kurulu asıl üyeliğinde istifa veya başka sebeplerden dolayı boşalma olduğu taktirde genel kurulda aldığı oy çokluğu sırasına göre yedek üyelerin göreve çağrılması mecburidir.
+- Yönetim kurulu asıl üyeliğinde istifa veya başka sebeplerden dolayı boşalma olduğu taktirde genel kurulda aldığı oy çokluğu sırasına göre yedek üyelerin göreve çağrılması mecburidir.
 
-####YÖNETİM KURULUNUN GÖREV VE YETKİLERİ
-Yönetim kurulu aşağıdaki hususları yerine getirir.
+#### YÖNETİM KURULUNUN GÖREV VE YETKİLERİ
+- Yönetim kurulu aşağıdaki hususları yerine getirir.
 
-Derneği temsil etmek veya bu hususta kendi üyelerinden birine veya bir üçüncü kişiye yetki vermek,
-Gelir ve gider hesaplarına ilişkin işlemleri yapmak ve gelecek döneme ait bütçeyi hazırlayarak genel kurula sunmak,
-Derneğin çalışmaları ile ilgili yönetmelikleri hazırlayarak genel kurul onayına sunmak,
-Genel kurulun verdiği yetki ile taşınmaz mal satın almak, derneğe ait taşınır ve taşınmaz malları satmak, bina veya tesis inşa ettirmek, kira sözleşmesi yapmak, dernek lehine rehin ipotek veya ayni haklar tesis ettirmek,
-Gereli görülen yerlerde temsilcilik açılmasını sağlamak,
-Genel kurulda alınan kararları uygulamak,
-Her faaliyet yılı sonunda derneğin işletme hesabı tablosu veya bilanço ve gelir tablosu ile yönetim kurulu çalışmalarını açıklayan raporunu düzenlemek, toplandığında genel kurula sunmak,
-Bütçenin uygulanmasını sağlamak,
-Derneğe üye alınması veya üyelikten çıkarılma hususlarında karar vermek,
-Derneğin amacını gerçekleştirmek için yetkisi dahilinde her çeşit kararı almak ve uygulamak,
-Mevzuatın kendisine verdiği diğer görevleri yapmak ve yetkileri kullanmak,
-DENETİM KURULUNUN TEŞKİLİ, GÖREV VE YETKİLERİ
-MADDE 12-DENETİM KURULU, ÜÇ ASIL VE ÜÇ YEDEK ÜYE OLARAK GENEL KURULCA SEÇİLİR.
-Denetim kurulu asıl üyeliğinde istifa veya başka sebeplerden dolayı boşalma olduğu taktirde genel kurulda aldığı oy çokluğu sırasına göre yedek üyelerin göreve çağrılması mecburidir.
+- Derneği temsil etmek veya bu hususta kendi üyelerinden birine veya bir üçüncü kişiye yetki vermek,
+- Gelir ve gider hesaplarına ilişkin işlemleri yapmak ve gelecek döneme ait bütçeyi hazırlayarak genel kurula sunmak,
+- Derneğin çalışmaları ile ilgili yönetmelikleri hazırlayarak genel kurul onayına sunmak,
+- Genel kurulun verdiği yetki ile taşınmaz mal satın almak, derneğe ait taşınır ve taşınmaz malları satmak, bina veya tesis inşa ettirmek, kira sözleşmesi yapmak, dernek lehine rehin ipotek veya ayni haklar tesis ettirmek,
+- Gereli görülen yerlerde temsilcilik açılmasını sağlamak,
+- Genel kurulda alınan kararları uygulamak,
+- Her faaliyet yılı sonunda derneğin işletme hesabı tablosu veya bilanço ve gelir tablosu ile yönetim kurulu çalışmalarını açıklayan raporunu düzenlemek, toplandığında genel kurula sunmak,
+- Bütçenin uygulanmasını sağlamak,
+- Derneğe üye alınması veya üyelikten çıkarılma hususlarında karar vermek,
+- Derneğin amacını gerçekleştirmek için yetkisi dahilinde her çeşit kararı almak ve uygulamak,
+- Mevzuatın kendisine verdiği diğer görevleri yapmak ve yetkileri kullanmak,
+
+## DENETİM KURULUNUN TEŞKİLİ, GÖREV VE YETKİLERİ
+### MADDE 12-DENETİM KURULU, ÜÇ ASIL VE ÜÇ YEDEK ÜYE OLARAK GENEL KURULCA SEÇİLİR.
+- Denetim kurulu asıl üyeliğinde istifa veya başka sebeplerden dolayı boşalma olduğu taktirde genel kurulda aldığı oy çokluğu sırasına göre yedek üyelerin göreve çağrılması mecburidir.
 
 ####DENETİM KURULUNUN GÖREV VE YETKİLERİ
 Denetim kurulu; derneğin, tüzüğünde gösterilen amaç ve amacın gerçekleştirilmesi için sürdürüleceği belirtilen çalışma konuları doğrultusunda faaliyet gösterip göstermediğini, defter, hesap ve kayıtların mevzuata ve dernek tüzüğüne uygun olarak tutulup tutulmadığını, dernek tüzüğünde tespit edilen esas ve usullere göre ve bir yılı geçmeyen aralıklarla denetler ve denetim sonuçlarını bir rapor halinde yönetim kuruluna ve toplandığında genel kurula sunar.
