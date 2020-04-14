@@ -14,3 +14,8 @@
 👉 <a href="https://kommunity.com/yazilim-gelistiricileri-dernegi">Kommunity</a> <br/>
 👉 <a href="https://discord.gg/3x5MPz">Discord</a> <br/>
 👉 <a href="https://chat.whatsapp.com/5J61OdDfrQi6lyZCBwI5fW">WhatsApp</a>
+
+### Proje Fikirleri
+
+- Yapmak istediğiniz proje fikirlerini bizimle paylaşabilirsiniz. 👉 <a href="https://github.com/Yazgelder/Yazgelder/issues/1">Fikir Paylaş</a>
+
