@@ -5,6 +5,8 @@
 ## İçerik Tablosu
 - [Dernek Tüzügü](#dernek-tüzügü)
 - [İletişim Kanalları](#iletisim-kanallari)
+- [Proje Fikirleri](#proje-fikirleri)
+
 
 ### Dernek Tüzügü
 - Derneğimizi tüzük dosyasına buradan erişebilirsiniz 👉 <a href="https://github.com/Yazgelder/Yazgelder/blob/master/Dernek-T%C3%BCz%C3%BC%C4%9F%C3%BC.md">Tüzüğü Göster</a> 
